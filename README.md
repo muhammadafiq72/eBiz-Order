@@ -1,1 +1,1 @@
-# Shopping cart application MVVM architecture
+eBiz-Order Mobile Application. INFO 4994 Final Year Project 2
