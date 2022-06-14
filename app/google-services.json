@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340231619965",
+    "project_id": "ebiz-order",
+    "storage_bucket": "ebiz-order.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340231619965:android:8c9cd47eb81ec4c607f814",
+        "android_client_info": {
+          "package_name": "com.example.eBiz_Order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340231619965-o81oojh355icd5990h9o0ec6pvou4e8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS-osZN49XQEJqe8rTbp2tDxAgWQIb9IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340231619965-o81oojh355icd5990h9o0ec6pvou4e8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

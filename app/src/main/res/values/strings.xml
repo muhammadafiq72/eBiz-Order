@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">eBiz_Order</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="quantity_string_array">
+        <item>1 Box</item>
+        <item>2 Box</item>
+        <item>3 Box</item>
+        <item>4 Box</item>
+        <item>5 Box</item>
+        <item>6 Box</item>
+        <item>7 Box</item>
+        <item>8 Box</item>
+        <item>9 Box</item>
+        <item>10 Box(Max)</item>
+    </string-array>
+
+</resources>
